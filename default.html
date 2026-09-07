@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.title != site.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_newlines }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']]
+      },
+      options: { skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'] }
+    };
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="masthead">
+    {% if page.url == '/' %}
+      <h1 class="name">Robin Visser</h1>
+    {% else %}
+      <p class="name"><a href="{{ '/' | relative_url }}">Robin Visser</a></p>
+    {% endif %}
+    <p class="role">Algebraic and computational number theory · Charles University, Prague</p>
+    {% if site.nav.size > 1 %}
+    <nav aria-label="Sections">
+      {% for item in site.nav %}
+        {% assign target = item.url | relative_url %}
+        <a href="{{ target }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+    {% endif %}
+  </header>
+
+  <main id="main">
+    {% if page.title and page.url != '/' %}<h1>{{ page.title }}</h1>{% endif %}
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>{{ site.email }} · <a href="https://github.com/rvisser7">github.com/rvisser7</a></p>
+  </footer>
+</body>
+</html>
