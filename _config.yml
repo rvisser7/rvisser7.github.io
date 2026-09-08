@@ -13,6 +13,7 @@ lang: en
 # "/files" and "/partiii/files" and every link on every page follows.
 files_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser"
 partiii_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/partiii"
+nmal431_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/nmal431"
 
 markdown: kramdown
 kramdown:
