@@ -9,8 +9,9 @@
   --accent: #7b2634;
   --accent-soft: #f3e9ea;
 
-  --serif: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, "Times New Roman", serif;
-  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  /* The GitHub/Primer system stack — Segoe UI on Windows, San Francisco on
+     macOS, Roboto on Android. Same as the default README rendering. */
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -22,9 +23,9 @@ body {
   padding: 0 1.5rem 4rem;
   background: var(--paper);
   color: var(--ink);
-  font-family: var(--serif);
+  font-family: var(--sans);
   font-size: 1.0625rem;
-  line-height: 1.62;
+  line-height: 1.5;
   text-rendering: optimizeLegibility;
 }
 
@@ -59,7 +60,7 @@ footer {
   font-size: 2.45rem;
   line-height: 1.05;
   font-weight: 700;
-  letter-spacing: -0.018em;
+  letter-spacing: -0.022em;
 }
 
 .masthead .name a {
@@ -111,7 +112,7 @@ h1.name {
   margin: 0;
   font-size: 2.45rem;
   line-height: 1.05;
-  letter-spacing: -0.018em;
+  letter-spacing: -0.022em;
 }
 @media (max-width: 34rem) { h1.name { font-size: 1.95rem; } }
 
@@ -185,7 +186,7 @@ li { margin-bottom: 0.42rem; }
 li::marker { color: var(--muted); }
 
 /* Dense link lists (lecture notes, talks) sit tighter and run wider. */
-.dense { max-width: 46rem; }
+.dense { max-width: 56rem; }
 .dense li { margin-bottom: 0.18rem; }
 
 /* Small trailing detail on a list item: dates, venues, journal refs. */
