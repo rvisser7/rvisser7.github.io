@@ -44,7 +44,7 @@ body {
 .masthead,
 main,
 footer {
-  max-width: 46rem;
+  max-width: 56rem;
   margin: 0 auto;
 }
 
@@ -123,7 +123,7 @@ main > p,
 main > ul,
 main > ol,
 main > blockquote {
-  max-width: 40rem;
+  max-width: 50rem;
 }
 
 h1 {
