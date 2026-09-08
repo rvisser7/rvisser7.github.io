@@ -1,9 +1,8 @@
 # Robin Visser
 
-Hi everyone, this is my new webpage. :)
+Hi everyone, this is the source for my new website: <https://rvisser7.github.io>. :)
 
-E-mail address: [robin.visser@matfyz.cuni.cz](mailto:robin.visser@matfyz.cuni.cz)
+My e-mail address: [robin.visser@matfyz.cuni.cz](mailto:robin.visser@matfyz.cuni.cz)
 
-I will add more stuff here soon.  For now, my old webpage can still be found hosted by Warwick: 
-[https://warwick.ac.uk/fac/sci/maths/people/staff/visser/](https://warwick.ac.uk/fac/sci/maths/people/staff/visser/)  (last updated: July 2026)
-
+I will add more stuff here as time goes on. You can also still visit my old webpage hosted by Warwick: 
+<https://warwick.ac.uk/fac/sci/maths/people/staff/visser/>. (last updated: July 2026)
