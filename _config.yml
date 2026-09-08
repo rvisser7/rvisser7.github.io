@@ -21,12 +21,12 @@ nav:
     url: /
   - title: Part III notes
     url: /partiii/
-  # - title: Genus 2 curves
-  #   url: /genus2/
+  - title: Genus 2 curves
+    url: /genus2/
   # - title: Papers I'm reading
   #   url: /papers/
-  # - title: Conferences
-  #   url: /conferences/
+  - title: Conferences
+    url: /conferences/
   # - title: Murmurations
   #   url: /murmurations/
   # - title: IMC training
