@@ -1,0 +1,43 @@
+title: Robin Visser
+author: Robin Visser
+email: robin.visser@matfyz.cuni.cz
+description: >-
+  Robin Visser — postdoctoral researcher in algebraic and computational
+  number theory at Charles University, Prague.
+url: "https://rvisser7.github.io"
+baseurl: ""
+lang: en
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  # Leave $...$ untouched so MathJax (loaded in the layout) can render it.
+  math_engine: null
+  syntax_highlighter: rouge
+
+# Top navigation. Uncomment each entry once you've migrated that page.
+nav:
+  - title: Home
+    url: /
+  - title: Part III notes
+    url: /partiii/
+  # - title: Genus 2 curves
+  #   url: /genus2/
+  # - title: Papers I'm reading
+  #   url: /papers/
+  # - title: Conferences
+  #   url: /conferences/
+  # - title: Murmurations
+  #   url: /murmurations/
+  # - title: IMC training
+  #   url: /imc2022/
+  # - title: Links
+  #   url: /links/
+
+exclude:
+  - README.md
+  - tools/
+  - _migration/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
