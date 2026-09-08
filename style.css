@@ -1,0 +1,287 @@
+---
+---
+
+:root {
+  --paper: #fcfcfa;
+  --ink: #191b1f;
+  --muted: #62666e;
+  --rule: #e3e1db;
+  --accent: #7b2634;
+  --accent-soft: #f3e9ea;
+
+  --serif: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, "Times New Roman", serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  padding: 0 1.5rem 4rem;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.0625rem;
+  line-height: 1.62;
+  text-rendering: optimizeLegibility;
+}
+
+.skip {
+  position: absolute;
+  left: -9999px;
+}
+.skip:focus {
+  left: 1rem;
+  top: 1rem;
+  background: var(--paper);
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--ink);
+  z-index: 10;
+}
+
+.masthead,
+main,
+footer {
+  max-width: 46rem;
+  margin: 0 auto;
+}
+
+/* ---- Masthead ---- */
+
+.masthead {
+  padding: 3.25rem 0 0;
+}
+
+.masthead .name {
+  margin: 0;
+  font-size: 2.45rem;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.018em;
+}
+
+.masthead .name a {
+  color: inherit;
+  text-decoration: none;
+  background: none;
+}
+
+.masthead .role {
+  margin: 0.5rem 0 0;
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  color: var(--muted);
+  letter-spacing: 0.005em;
+}
+
+.masthead nav {
+  margin-top: 1.5rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--rule);
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.4rem;
+}
+
+.masthead nav a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  padding-bottom: 1px;
+}
+
+.masthead nav a:hover,
+.masthead nav a:focus-visible {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+
+.masthead nav a[aria-current="page"] {
+  color: var(--ink);
+  border-bottom-color: var(--accent);
+}
+
+/* The masthead name is the h1 on the homepage; keep it visually identical
+   to the <p class="name"> used elsewhere. */
+h1.name {
+  margin: 0;
+  font-size: 2.45rem;
+  line-height: 1.05;
+  letter-spacing: -0.018em;
+}
+@media (max-width: 34rem) { h1.name { font-size: 1.95rem; } }
+
+/* ---- Body content ---- */
+
+main { padding-top: 2.5rem; }
+
+main > p,
+main > ul,
+main > ol,
+main > blockquote {
+  max-width: 40rem;
+}
+
+h1 {
+  margin: 0 0 1.75rem;
+  font-size: 1.9rem;
+  line-height: 1.15;
+  font-weight: 700;
+  letter-spacing: -0.012em;
+}
+
+h2 {
+  margin: 2.9rem 0 0.9rem;
+  padding-top: 0.85rem;
+  border-top: 1px solid var(--rule);
+  font-size: 1.18rem;
+  font-weight: 700;
+  letter-spacing: -0.004em;
+}
+
+h3 {
+  margin: 2rem 0 0.6rem;
+  font-size: 1.03rem;
+  font-weight: 700;
+}
+
+h4 {
+  margin: 1.6rem 0 0.4rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+p { margin: 0 0 1.05rem; }
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid var(--accent-soft);
+}
+
+a:hover,
+a:focus-visible {
+  border-bottom-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+ul, ol {
+  margin: 0 0 1.2rem;
+  padding-left: 1.15rem;
+}
+
+li { margin-bottom: 0.42rem; }
+
+li::marker { color: var(--muted); }
+
+/* Dense link lists (lecture notes, talks) sit tighter and run wider. */
+.dense { max-width: 46rem; }
+.dense li { margin-bottom: 0.18rem; }
+
+/* Small trailing detail on a list item: dates, venues, journal refs. */
+.meta {
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 2.5rem 0;
+}
+
+blockquote {
+  margin: 1.5rem 0;
+  padding-left: 1rem;
+  border-left: 2px solid var(--rule);
+  color: var(--muted);
+}
+
+code, pre {
+  font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  font-size: 0.875em;
+}
+
+pre {
+  overflow-x: auto;
+  padding: 0.9rem 1rem;
+  background: #f4f3ef;
+  border: 1px solid var(--rule);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+figure {
+  margin: 2rem 0;
+  max-width: 24rem;
+}
+
+figcaption {
+  margin-top: 0.5rem;
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  font-size: 0.9375rem;
+}
+
+th, td {
+  text-align: left;
+  padding: 0.4rem 0.75rem 0.4rem 0;
+  border-bottom: 1px solid var(--rule);
+  vertical-align: top;
+}
+
+th { font-weight: 600; }
+
+/* ---- Footer ---- */
+
+footer {
+  margin-top: 4rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+
+footer a { color: var(--muted); border-bottom-color: var(--rule); }
+footer a:hover { color: var(--ink); background: none; border-bottom-color: var(--ink); }
+
+/* ---- Responsive ---- */
+
+@media (max-width: 34rem) {
+  body { padding: 0 1.15rem 3rem; font-size: 1rem; }
+  .masthead { padding-top: 2.25rem; }
+  .masthead .name { font-size: 1.95rem; }
+  h1 { font-size: 1.6rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+
+@media print {
+  .masthead nav, .skip { display: none; }
+  body { font-size: 11pt; }
+  a { color: inherit; border: 0; }
+}
