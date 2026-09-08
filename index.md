@@ -54,72 +54,72 @@ For more, see my [CV](files/cv.pdf).
 ## Theses
 
 - *The Effective Shafarevich Conjecture.* PhD thesis, University of Warwick, 2024.
-  [[published](https://wrap.warwick.ac.uk/193784/)] [[pdf](files/thesis.pdf)]
+  [[published](https://wrap.warwick.ac.uk/193784/)] [[pdf]({{ site.files_base }}/thesis.pdf)]
 - *Large Gaps Between Primes.* Part III (MASt) essay, University of Cambridge, 2020.
-  [[pdf](files/large_gaps_between_primes.pdf)]
+  [[pdf]({{ site.files_base }}/large_gaps_between_primes.pdf)]
 - *Computing dimensions of spaces of modular forms.* BSc project, Stellenbosch
-  University, 2018. [[pdf](files/modular_forms_honours_project.pdf)]
+  University, 2018. [[pdf]({{ site.files_base }}/modular_forms_honours_project.pdf)]
 
 ## Other writing
 
 - Calculating L-values of elliptic curves twisted by Grossencharacters, 2022.
-  [[draft](files/grossencharacter_draft.pdf)]
+  [[draft]({{ site.files_base }}/grossencharacter_draft.pdf)]
 - First year PhD project on
-  [L-values of twisted elliptic curves](files/firstyearphd_project2_rvisser.pdf),
+  [L-values of twisted elliptic curves]({{ site.files_base }}/firstyearphd_project2_rvisser.pdf),
   September 2021.
-- A short mini-project on the [Abel–Jacobi map](files/abel_jacobi_map.pdf),
+- A short mini-project on the [Abel–Jacobi map]({{ site.files_base }}/abel_jacobi_map.pdf),
   January 2021.
 - Some of my (very rough) Part III notes on
-  [elliptic curves](partiii/files/part_iii_elliptic_curves.pdf),
-  [modular forms](partiii/files/part_iii_modular_forms.pdf),
-  [algebraic number theory](partiii/files/part_iii_algebraic_number_theory.pdf) and
-  [analytic number theory](partiii/files/part_iii_analytic_number_theory.pdf).
+  [elliptic curves]({{ site.partiii_base }}/part_iii_elliptic_curves.pdf),
+  [modular forms]({{ site.partiii_base }}/part_iii_modular_forms.pdf),
+  [algebraic number theory]({{ site.partiii_base }}/part_iii_algebraic_number_theory.pdf) and
+  [analytic number theory]({{ site.partiii_base }}/part_iii_analytic_number_theory.pdf).
   More detailed notes are on the [Part III page](partiii/).
 - A third-year undergraduate project on
-  [derivations of triangular algebras](files/triangular_algebras_project.pdf), 2017.
+  [derivations of triangular algebras]({{ site.files_base }}/triangular_algebras_project.pdf), 2017.
 
 ## Talks
 
 {: .dense}
 - Probably purple partition patterns prefer prohibiting perfect powers
-  [[slides](files/partition_slides.pdf)] <span class="meta">April 2026</span>
+  [[slides]({{ site.files_base }}/partition_slides.pdf)] <span class="meta">April 2026</span>
 - Bounds on the minimal ranks of $n$-universal lattices
-  [[slides](files/minimal_ranks_slides.pdf)] <span class="meta">October 2025</span>
+  [[slides]({{ site.files_base }}/minimal_ranks_slides.pdf)] <span class="meta">October 2025</span>
 - Sums of two units in number fields
-  [[slides](files/sums_units_slides.pdf)] <span class="meta">March 2025</span>
+  [[slides]({{ site.files_base }}/sums_units_slides.pdf)] <span class="meta">March 2025</span>
 - Computing genus 2 curves over $\mathbb{Q}$ whose Jacobians have good reduction
-  away from 2 [[slides](files/bmc2024_slides.pdf)] <span class="meta">June 2024</span>
+  away from 2 [[slides]({{ site.files_base }}/bmc2024_slides.pdf)] <span class="meta">June 2024</span>
 - The Effective Shafarevich Conjecture
-  [[slides](files/effectiveshafarevich.pdf)] <span class="meta">February 2024</span>
+  [[slides]({{ site.files_base }}/effectiveshafarevich.pdf)] <span class="meta">February 2024</span>
 - Murmurations in arithmetic
-  [[slides](files/murmurations.pdf)] <span class="meta">January 2024</span>
+  [[slides]({{ site.files_base }}/murmurations.pdf)] <span class="meta">January 2024</span>
 - Gaps between primes
-  [[slides](files/primegaps_slides.pdf)] <span class="meta">October 2023</span>
+  [[slides]({{ site.files_base }}/primegaps_slides.pdf)] <span class="meta">October 2023</span>
 - Abelian surfaces with good reduction away from 2
-  [[slides](files/yrant2023_slides.pdf)] <span class="meta">September 2023</span>
+  [[slides]({{ site.files_base }}/yrant2023_slides.pdf)] <span class="meta">September 2023</span>
 - Kronecker's limit formula and L-functions of elliptic curves with CM
-  (Euler Systems seminar) [[notes](files/cmellipticcurves_notes.pdf)]
+  (Euler Systems seminar) [[notes]({{ site.files_base }}/cmellipticcurves_notes.pdf)]
   <span class="meta">September 2023</span>
 - Curves with few bad primes over cyclotomic $\mathbb{Z}_\ell$-extensions
-  [[slides](files/yobo2023_slides.pdf)] <span class="meta">July 2023</span>
+  [[slides]({{ site.files_base }}/yobo2023_slides.pdf)] <span class="meta">July 2023</span>
 - A survey of applications of Matomäki–Radziwiłł's theorem
-  [[slides](files/matomaki_radziwill_slides.pdf)] <span class="meta">March 2023</span>
+  [[slides]({{ site.files_base }}/matomaki_radziwill_slides.pdf)] <span class="meta">March 2023</span>
 - Genus 2 isogeny cryptography
-  [[slides](files/genus2crypto.pdf)] <span class="meta">December 2022</span>
+  [[slides]({{ site.files_base }}/genus2crypto.pdf)] <span class="meta">December 2022</span>
 - Eichler–Shimura and the Shimura representation (Mazur's Torsion Theorem)
   [[video](https://www.youtube.com/watch?v=9Li5UnvozbQ&list=PLy1YU_ExQM3mrY8T2K4jmEOy4WApncJN1&index=18)]
   <span class="meta">November 2022</span>
 - Sums of three cubes
-  [[slides](files/sumsofthreecubes.pdf)] <span class="meta">November 2022</span>
+  [[slides]({{ site.files_base }}/sumsofthreecubes.pdf)] <span class="meta">November 2022</span>
 - Hilbert's tenth problem
-  [[slides](files/hilbert10_slides.pdf)] <span class="meta">October 2022</span>
+  [[slides]({{ site.files_base }}/hilbert10_slides.pdf)] <span class="meta">October 2022</span>
 - Jacobians (Mazur's Torsion Theorem)
   [[video](https://www.youtube.com/watch?v=bZ_2IX9VCJo&list=PLy1YU_ExQM3mrY8T2K4jmEOy4WApncJN1)]
   <span class="meta">May 2022</span>
 - Cluster pictures for hyperelliptic curves
-  [[slides](files/clusterpictures_slides.pdf)] <span class="meta">May 2022</span>
+  [[slides]({{ site.files_base }}/clusterpictures_slides.pdf)] <span class="meta">May 2022</span>
 - A proof of Bary-Soroker and Kozma's irreducibility theorem
-  [[slides](files/irreducibilitystudygroup_week5_11feb.pdf)]
+  [[slides]({{ site.files_base }}/irreducibilitystudygroup_week5_11feb.pdf)]
   <span class="meta">February 2022</span>
 
 ## Teaching
