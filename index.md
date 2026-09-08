@@ -141,8 +141,10 @@ For more, see my [CV](files/cv.pdf).
   more importantly my [Erdős lap number](https://pikhurko.github.io/Gallery/ELN/index.html)
   is also **3** ([proof](files/erdos_lap_number.png)).
 - My [OEIS contributions](https://oeis.org/search?q=%22robin+visser%22&language=english&go=Search).
+<!-- - My [LMFDB constributions](https://github.com/LMFDB/lmfdb/pulls?q=is%3Apr+is%3Aclosed+author%3Arvisser7) -->
 - A very handy [video tutorial](https://youtu.be/li75yEgKcb0) on how to start writing.
 - A list of [some papers](papers/) I'm currently reading.
+- My old Warwick webpage can be found [here](https://warwick.ac.uk/fac/sci/maths/people/staff/visser/).
 
 <figure>
   <img src="files/cat_robin.jpg" alt="A cat staring into the camera">
