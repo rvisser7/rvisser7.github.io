@@ -4,22 +4,22 @@ title: Robin Visser
 description: Robin Visser — postdoctoral researcher in algebraic and computational number theory at Charles University, Prague.
 ---
 
-I am a postdoctoral researcher in algebraic and computational number theory at
-[Charles University](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=18532)
-in Prague, Czechia. I completed my PhD under the supervision of
-[Samir Siksek](https://warwick.ac.uk/fac/sci/maths/people/staff/samir_siksek/)
-at the University of Warwick. My research interests include the statistical
-properties of totally real fields, the arithmetic of abelian varieties and
-Galois representations, and the reduction behaviour of elliptic and hyperelliptic
-curves and their Jacobians. I also often enjoy playing around with various
-aspects of analytic number theory.
+<figure class="portrait">
+  <img src="{{ site.files_base }}/cat_robin.jpg" alt="A cat staring into the camera">
+  <figcaption><a href="{{ site.files_base }}/photo.jpg">A more human photo</a></figcaption>
+</figure>
+
+I am a postdoctoral researcher in algebraic and computational number theory at [Charles University](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=18532) in Prague, Czechia.
+I completed my PhD under the supervision of [Samir Siksek](https://warwick.ac.uk/fac/sci/maths/people/staff/samir_siksek/) at the University of Warwick.
+My research interests include the statistical properties of totally real fields, the arithmetic of abelian varieties and Galois representations, and the reduction behaviour of elliptic and hyperelliptic curves and their Jacobians.
+I also often enjoy playing around with various aspects of analytic number theory.
 
 **E-mail:** [robin.visser@matfyz.cuni.cz](mailto:robin.visser@matfyz.cuni.cz)
 
 **Background.** After finishing my BSc (Hons) at Stellenbosch University in 2018,
 I completed the MASt (Part III) at the University of Cambridge in 2020, where I
 also wrote a short essay on [large prime gaps](files/large_gaps_between_primes.pdf).
-For more, see my [CV](files/cv.pdf).
+For more information on my background, see my [CV](files/cv.pdf).
 
 ## Publications
 
