@@ -38,8 +38,8 @@ nav:
   #   url: /murmurations/
   # - title: IMC training
   #   url: /imc2022/
-  # - title: Links
-  #   url: /links/
+  - title: Links
+    url: /links/
 
 exclude:
   - README.md
