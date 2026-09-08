@@ -8,6 +8,12 @@ url: "https://rvisser7.github.io"
 baseurl: ""
 lang: en
 
+# Where PDFs and images are served from. They still live on the old Warwick
+# site for now; once they're mirrored into this repo, change these two lines to
+# "/files" and "/partiii/files" and every link on every page follows.
+files_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser"
+partiii_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/partiii"
+
 markdown: kramdown
 kramdown:
   input: GFM
