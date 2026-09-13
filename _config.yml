@@ -15,6 +15,7 @@ files_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser"
 partiii_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/partiii"
 genus2_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/genus2"
 murmurations_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/murmurations"
+imc_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/imc2022"
 nmal431_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/nmal431"
 
 markdown: kramdown
@@ -38,8 +39,8 @@ nav:
     url: /conferences/
   - title: Murmurations
     url: /murmurations/
-  # - title: IMC training
-  #   url: /imc2022/
+  - title: IMC training
+    url: /imc/
   - title: Teaching
     url: /nmal431/
   - title: Links
