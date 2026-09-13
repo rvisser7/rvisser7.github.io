@@ -231,6 +231,12 @@ figure {
   max-width: 24rem;
 }
 
+figure:not(.portrait) {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
 /* A portrait floated into the right margin, with text wrapping beside it. */
 .portrait {
   float: right;
