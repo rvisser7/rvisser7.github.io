@@ -6,7 +6,7 @@ description: Robin Visser — postdoctoral researcher in algebraic and computati
 
 <figure class="portrait">
   <img src="{{ site.files_base }}/cat_robin.jpg" alt="A cat staring into the camera">
-  <figcaption><a href="{{ site.files_base }}/photo.jpg">A more human photo</a></figcaption>
+  <figcaption><a href="{{ site.files_base }}/photo.jpg">click here for a more human photo</a></figcaption>
 </figure>
 
 I am a postdoctoral researcher in algebraic and computational number theory at [Charles University](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=18532) in Prague, Czechia.
