@@ -147,8 +147,5 @@ For more information on my background, see my [CV](files/cv.pdf).
 - My old Warwick webpage can be found [here](https://warwick.ac.uk/fac/sci/maths/people/staff/visser/).
 
 <figure>
-  <img src="files/cat_robin.jpg" alt="A cat staring into the camera">
-  <figcaption>
-    <a href="files/photo.jpg">Click here for a more human photo.</a>
-  </figcaption>
+  <img src="{{ site.files_base }}/cat_meme.png">
 </figure>
