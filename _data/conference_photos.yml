@@ -1,0 +1,25 @@
+# Conference photos, newest first.
+#
+# file:     path to the image, relative to the site root
+# name:     conference or workshop name (shown as the caption)
+# url:      optional link to the conference webpage
+# location: optional
+# date:     optional
+# alt:      optional; falls back to `name` if omitted
+
+- file: /files/photos/quadratic-lattices-prague-2026.jpg
+  name: Quadratic Lattices in Prague
+  url: https://example.org/quadratic-lattices-2026
+  location: Prague
+  date: June 2026
+  alt: Group photo of participants outside the Faculty of Mathematics and Physics
+
+- file: /files/photos/ants-xvii-2026.jpg
+  name: ANTS XVII
+  location: Taipei
+  date: June 2026
+
+- file: /files/photos/yrant-2023.jpg
+  name: YRANT 2023
+  location: Bristol
+  date: September 2023
