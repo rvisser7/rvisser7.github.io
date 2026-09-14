@@ -7,11 +7,11 @@
 # date:     optional
 # alt:      optional; falls back to `name` if omitted
 
- - file: https://math.uni-paderborn.de/fileadmin-eim/_processed_/1/4/csm_Arithmetic_Statistics-23_96c4646ad3.jpg
-   name: Arithmetic Statistics
-   url: https://math.uni-paderborn.de/en/ag/ca/forschung/konferenzen/conference-24082026-28082026
-   location: Paderborn, Germany
-   date: August 2026
+- file: https://math.uni-paderborn.de/fileadmin-eim/_processed_/1/4/csm_Arithmetic_Statistics-23_96c4646ad3.jpg
+  name: Arithmetic Statistics
+  url: https://math.uni-paderborn.de/en/ag/ca/forschung/konferenzen/conference-24082026-28082026   
+  location: Paderborn, Germany
+  date: August 2026
 
 - file: /files/photos/quadratic-lattices-prague-2026.jpg
   name: Quadratic Lattices in Prague
@@ -29,6 +29,11 @@
   name: 33èmes Journées Arithmétiques
   location: Luxembourg
   date: July 2025
+
+- file: https://mordell.org/photo.jpg
+  name: The Mordell conjecture 100 years later
+  location: MIT
+  date: July 2024
 
 - file: /files/photos/yrant-2023.jpg
   name: YRANT 2023
