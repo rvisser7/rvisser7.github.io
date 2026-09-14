@@ -7,6 +7,12 @@
 # date:     optional
 # alt:      optional; falls back to `name` if omitted
 
+ - file: https://math.uni-paderborn.de/fileadmin-eim/_processed_/1/4/csm_Arithmetic_Statistics-23_96c4646ad3.jpg
+   name: Arithmetic Statistics
+   url: https://math.uni-paderborn.de/en/ag/ca/forschung/konferenzen/conference-24082026-28082026
+   location: Paderborn, Germany
+   date: August 2026
+
 - file: /files/photos/quadratic-lattices-prague-2026.jpg
   name: Quadratic Lattices in Prague
   url: https://example.org/quadratic-lattices-2026
@@ -18,6 +24,11 @@
   name: ANTS XVII
   location: Taipei
   date: June 2026
+
+- file: https://math.uni.lu/JA25/JA25-pictures/JA25-picture-official.jpg
+  name: 33èmes Journées Arithmétiques
+  location: Luxembourg
+  date: July 2025
 
 - file: /files/photos/yrant-2023.jpg
   name: YRANT 2023
