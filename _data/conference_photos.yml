@@ -13,17 +13,30 @@
   location: Paderborn, Germany
   date: August 2026
 
-- file: /files/photos/quadratic-lattices-prague-2026.jpg
+- file: https://www.mff.cuni.cz/cache/images/c8/data-nodes-76108-img-8846-resize-w1280-h0-o90.JPG
   name: Quadratic Lattices in Prague
-  url: https://example.org/quadratic-lattices-2026
-  location: Prague
-  date: June 2026
-  alt: Group photo of participants outside the Faculty of Mathematics and Physics
+  url: https://sites.google.com/view/qlp26
+  location: Prague, Czechia
+  date: August 2026
+  alt: Group photo of participants in stairwell at the Faculty of Mathematics and Physics
 
-- file: /files/photos/ants-xvii-2026.jpg
+- file: https://emiliano-ambrosi.perso.math.cnrs.fr/Cavaret2page/cavaretfoto.png
+  name: Curves, Abelian VArieties and RElated Topics (CAVARET 2)
+  url: https://emiliano-ambrosi.perso.math.cnrs.fr/Cavaret2page/Cavaret2main.html
+  location: Barcelona, Spain
+  date: July 2026
+  
+- file: /conferences/photos/ants-xvii-2026.jpg
   name: ANTS XVII
-  location: Taipei
+  url: https://www.antsxvii.org/
+  location: Groningen, Netherlands
   date: June 2026
+
+- file: /conferences/photos/chabonnty-2026.jpg
+  name: ChaBONNty conference
+  url: https://www.mpim-bonn.mpg.de/ChaBONNty
+  location: Bonn, Germany
+  date: July 2026
 
 - file: https://math.uni.lu/JA25/JA25-pictures/JA25-picture-official.jpg
   name: 33èmes Journées Arithmétiques
