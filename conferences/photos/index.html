@@ -1,0 +1,78 @@
+---
+layout: default
+title: Conference photos
+permalink: /conferences/photos/
+---
+
+<style>
+  .photo-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: start;          /* keeps tall and short photos from stretching */
+    gap: 2.5rem 2rem;
+    margin: 2rem 0 3rem;
+  }
+
+  @media (max-width: 620px) {
+    .photo-grid {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+  }
+
+  .photo-grid figure {
+    margin: 0;
+  }
+
+  .photo-grid img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 2px;
+  }
+
+  .photo-grid a:focus-visible img {
+    outline: 2px solid currentColor;
+    outline-offset: 3px;
+  }
+
+  .photo-grid figcaption {
+    margin-top: 0.6rem;
+    font-size: 0.9rem;
+    line-height: 1.45;
+  }
+
+  .photo-grid .photo-meta {
+    display: block;
+    color: #666;
+  }
+</style>
+
+<h2>Conference photos</h2>
+
+<p>
+  Group photos from conferences and workshops I&rsquo;ve been to. Click any photo
+  for the full-size version.
+</p>
+
+<div class="photo-grid">
+  {% for photo in site.data.conference_photos %}
+  <figure>
+    <a href="{{ photo.file | relative_url }}">
+      <img src="{{ photo.file | relative_url }}"
+           alt="{{ photo.alt | default: photo.name }}"
+           loading="lazy">
+    </a>
+    <figcaption>
+      {% if photo.url %}
+        <a href="{{ photo.url }}">{{ photo.name }}</a>
+      {% else %}
+        {{ photo.name }}
+      {% endif %}
+      <span class="photo-meta">
+        {{ photo.location }}{% if photo.location and photo.date %}, {% endif %}{{ photo.date }}
+      </span>
+    </figcaption>
+  </figure>
+  {% endfor %}
+</div>
