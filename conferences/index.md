@@ -98,5 +98,6 @@ description: Conferences and workshops Robin Visser has attended or is attending
 - [Young Researchers in Algebraic Number Theory](https://web-eur.cvent.com/event/08d43894-c4fc-4f4d-825a-5cc6f03afeed/summary?RefId=HIMR) (YRANT), 3rd edition
   <span class="meta">University of Bristol, online, 18–20 August 2021</span>
 
-I occasionally take photos at conferences I attend. If you'd like a copy of any of
-them, just [let me know](mailto:robin.visser@matfyz.cuni.cz).
+Here are some [group photos](photos/) for some of the above conferences.
+
+I occasionally take a few of my own photos at some of the conferences I attend. If you'd like a copy of any photos taken, just [let me know](mailto:robin.visser@matfyz.cuni.cz)!
