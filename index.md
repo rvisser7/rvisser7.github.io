@@ -6,10 +6,10 @@ description: Robin Visser — postdoctoral researcher in algebraic and computati
 
 <figure class="portrait">
   <img src="{{ site.files_base }}/cat_robin.jpg" alt="A cat staring into the camera">
-  <figcaption><a href="{{ site.files_base }}/photo.jpg">click here for a more human photo</a></figcaption>
+  <figcaption><a href="{{ site.files_base }}/photo.jpg?maxHeight=500">click here for a more human photo</a></figcaption>
 </figure>
 
-I am a postdoctoral researcher in algebraic and computational number theory at [Charles University](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=18532) in Prague, Czechia.
+Hi, I'm Robin, a postdoctoral researcher in algebraic and computational number theory at [Charles University](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=18532) in Prague, Czechia.
 I completed my PhD under the supervision of [Samir Siksek](https://warwick.ac.uk/fac/sci/maths/people/staff/samir_siksek/) at the University of Warwick.
 My research interests include the statistical properties of totally real fields, the arithmetic of abelian varieties and Galois representations, and the reduction behaviour of elliptic and hyperelliptic curves and their Jacobians.
 I also often enjoy playing around with various aspects of analytic number theory.
@@ -18,7 +18,7 @@ I also often enjoy playing around with various aspects of analytic number theory
 
 **Background.** After finishing my BSc (Hons) at Stellenbosch University in 2018,
 I completed the MASt (Part III) at the University of Cambridge in 2020, where I
-also wrote a short essay on [large prime gaps](files/large_gaps_between_primes.pdf).
+also wrote a short essay on [large prime gaps]({{ site.files_base }}/large_gaps_between_primes.pdf).
 For more information on my background, see my [CV](files/cv.pdf).
 
 ## Publications
@@ -139,7 +139,7 @@ For more information on my background, see my [CV](files/cv.pdf).
 
 - My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3, but
   more importantly my [Erdős lap number](https://pikhurko.github.io/Gallery/ELN/index.html)
-  is also **3** ([proof](files/erdos_lap_number.png)).
+  is also **3** ([proof]({{ site.files_base }}/erdos_lap_number.png)).
 - My [OEIS contributions](https://oeis.org/search?q=%22robin+visser%22&language=english&go=Search).
 <!-- - My [LMFDB constributions](https://github.com/LMFDB/lmfdb/pulls?q=is%3Apr+is%3Aclosed+author%3Arvisser7) -->
 - A very handy [video tutorial](https://youtu.be/li75yEgKcb0) on how to start writing.
