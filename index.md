@@ -5,11 +5,12 @@ description: Robin Visser — postdoctoral researcher in algebraic and computati
 ---
 
 <figure class="portrait">
-  <img src="{{ site.files_base }}/cat_robin.jpg" alt="A cat staring into the camera">
+  <!-- <img src="{{ site.files_base }}/cat_robin.jpg" alt="A cat staring into the camera"> -->
+  <img src="{{ site.files_base }}/clusterpictures.png" alt="A cat staring into the camera">
   <figcaption><a href="{{ site.files_base }}/photo.jpg?maxHeight=500">click here for a more human photo</a></figcaption>
 </figure>
 
-Hi, I'm Robin, a postdoctoral researcher in algebraic and computational number theory at [Charles University](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=18532) in Prague, Czechia.
+Hi! I'm Robin, a postdoctoral researcher in algebraic and computational number theory at [Charles University](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=18532) in Prague, Czechia.
 I completed my PhD under the supervision of [Samir Siksek](https://warwick.ac.uk/fac/sci/maths/people/staff/samir_siksek/) at the University of Warwick.
 My research interests include the statistical properties of totally real fields, the arithmetic of abelian varieties and Galois representations, and the reduction behaviour of elliptic and hyperelliptic curves and their Jacobians.
 I also often enjoy playing around with various aspects of analytic number theory.
@@ -81,10 +82,18 @@ For more information on my background, see my [CV](files/cv.pdf).
 ## Talks
 
 {: .dense}
+- Higher genus theory and unramified quadratic extensions of biquadratic fields
+  [[slides]({{ site.files_base }}/partition_slides.pdf)] <span class="meta">August 2026</span>
+
+- Asymptotics of $n$-universal lattices
+  [[slides]({{ site.files_base }}/asymptotics_slides.pdf)] <span class="meta">August 2026</span>
+  
 - Probably purple partition patterns prefer prohibiting perfect powers
   [[slides]({{ site.files_base }}/partition_slides.pdf)] <span class="meta">April 2026</span>
+  
 - Bounds on the minimal ranks of $n$-universal lattices
   [[slides]({{ site.files_base }}/minimal_ranks_slides.pdf)] <span class="meta">October 2025</span>
+  
 - Sums of two units in number fields
   [[slides]({{ site.files_base }}/sums_units_slides.pdf)] <span class="meta">March 2025</span>
 - Computing genus 2 curves over $\mathbb{Q}$ whose Jacobians have good reduction
@@ -125,23 +134,25 @@ For more information on my background, see my [CV](files/cv.pdf).
 ## Teaching
 
 {: .dense}
-- Teaching assistant, [MA124 Mathematics by Computer](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma124/) <span class="meta">Term 1, 2023/24</span>
+- Course instructor for [NMAL431 Advanced Algebraic Number Theory](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NMAL431) <span class="meta">Term 1, 2026/27</span>
+- Course instructor for [NMAL431 Advanced Algebraic Number Theory](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NMAL431) <span class="meta">Term 1, 2025/26</span>
+- Teaching assistant for [MA124 Mathematics by Computer](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma124/) <span class="meta">Term 1, 2023/24</span>
 - Supervisor to first-year maths undergraduates <span class="meta">2022/23</span>
-- Teaching assistant, [MA4H8 Ring Theory](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma4h8/) <span class="meta">Term 2, 2022/23</span>
-- Teaching assistant, [MA252 Combinatorial Optimisation](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma252/) <span class="meta">Term 2, 2022/23</span>
-- Teaching assistant, [MA3E1 Groups & Representations](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma3e1/) <span class="meta">Term 1, 2022/23</span>
+- Teaching assistant for [MA4H8 Ring Theory](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma4h8/) <span class="meta">Term 2, 2022/23</span>
+- Teaching assistant for [MA252 Combinatorial Optimisation](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma252/) <span class="meta">Term 2, 2022/23</span>
+- Teaching assistant for [MA3E1 Groups & Representations](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma3e1/) <span class="meta">Term 1, 2022/23</span>
 - Supervisor to first-year maths undergraduates <span class="meta">2021/22</span>
-- Teaching assistant, [MA4H9 Modular Forms](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma4h9/) <span class="meta">Term 2, 2021/22</span>
-- Teaching assistant, [MA3A6 Algebraic Number Theory](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma3a6/) <span class="meta">Term 1, 2021/22</span>
+- Teaching assistant for [MA4H9 Modular Forms](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma4h9/) <span class="meta">Term 2, 2021/22</span>
+- Teaching assistant for [MA3A6 Algebraic Number Theory](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma3a6/) <span class="meta">Term 1, 2021/22</span>
 - Supervisor to first-year maths undergraduates <span class="meta">2020/21</span>
 
 ## Other things
 
 - My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3, but
   more importantly my [Erdős lap number](https://pikhurko.github.io/Gallery/ELN/index.html)
-  is also **3** ([proof]({{ site.files_base }}/erdos_lap_number.png)).
+  is also 3 ([proof]({{ site.files_base }}/erdos_lap_number.png)).
 - My [OEIS contributions](https://oeis.org/search?q=%22robin+visser%22&language=english&go=Search).
-<!-- - My [LMFDB constributions](https://github.com/LMFDB/lmfdb/pulls?q=is%3Apr+is%3Aclosed+author%3Arvisser7) -->
+- My [LMFDB contributions](https://github.com/LMFDB/lmfdb/pulls?q=is%3Apr+is%3Aclosed+author%3Arvisser7) 
 - A very handy [video tutorial](https://youtu.be/li75yEgKcb0) on how to start writing.
 - A list of [some papers](papers/) I'm currently reading.
 - My old Warwick webpage can be found [here](https://warwick.ac.uk/fac/sci/maths/people/staff/visser/).
