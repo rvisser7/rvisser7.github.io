@@ -30,7 +30,7 @@
   name: ANTS XVII
   url: https://www.antsxvii.org/
   location: Groningen, Netherlands
-  date: June 2026
+  date: July 2026
 
 - file: /conferences/photos/chabonnty-2026.jpg
   name: ChaBONNty conference
@@ -43,10 +43,35 @@
   location: Luxembourg
   date: July 2025
 
+- file: /conferences/photos/rnt6-2025.png
+  name: Rethinking Number Theory (RNT6) workshop
+  location: online
+  date: June 2025
+
+- file: https://lh3.googleusercontent.com/sitesv/AG8ngQXNFsUMLTkwMVo6u55sOi-adYmveKwzxxDn3jBk94lY8YmBXl125oW2RJnU3tPAuflFindHoypCQfACgbynX5dbO3AKruM3odvMRirTFeARzvA36Cw0elAwsGPE8iL2Lvl_EubxMzgrk9pSdlQwvyaarQX6E5sD6Ng42EJTh6DFUis1qm0e1xVBMOdlSnNn3rXZUIB15MfTMy_ahCm054IxD27Azj7DVG36wd75CKg=w1280
+  name: The Legacy of John Tate, and Beyond
+  location: Harvard University, USA
+  date: March 2025
+
+- file: https://scgp.stonybrook.edu/wp-content/uploads/2023/01/Murmurations-1365x2048.jpg
+  name: Murmurations in Arithmetic Geometry and Related Topics
+  location: Simons Center for Geometry and Physics, USA
+  date: November 2024
+
 - file: https://mordell.org/photo.jpg
   name: The Mordell conjecture 100 years later
-  location: MIT
+  location: MIT, USA
   date: July 2024
+
+- file: https://warwick.ac.uk/fac/sci/maths/research/events/2023-2024/modularcurves/img_4543.jpeg
+  name: Modular Curves and their Arithmetic
+  location: Warwick, UK
+  date: December 2023
+
+- file: https://web.math.pmf.unizg.hr/~fnajman/photo1.jpg
+  name: Modular curves and Galois representations
+  location: Zagreb, Croatia
+  date: September 2023
 
 - file: /files/photos/yrant-2023.jpg
   name: YRANT 2023
