@@ -58,7 +58,7 @@ For more information on my background, see my [CV](files/cv.pdf).
   [[published](https://wrap.warwick.ac.uk/193784/)] [[pdf]({{ site.files_base }}/thesis.pdf)]
 - *Large Gaps Between Primes.* Part III (MASt) essay, University of Cambridge, 2020.
   [[pdf]({{ site.files_base }}/large_gaps_between_primes.pdf)]
-- *Computing dimensions of spaces of modular forms.* BSc project, Stellenbosch
+- *Computing dimensions of spaces of modular forms.* BSc thesis, Stellenbosch
   University, 2018. [[pdf]({{ site.files_base }}/modular_forms_honours_project.pdf)]
 
 ## Other writing
@@ -83,17 +83,13 @@ For more information on my background, see my [CV](files/cv.pdf).
 
 {: .dense}
 - Higher genus theory and unramified quadratic extensions of biquadratic fields
-  [[slides]({{ site.files_base }}/partition_slides.pdf)] <span class="meta">August 2026</span>
-
+  [[slides](slides/paderborn_slides.pdf)] <span class="meta">August 2026</span>
 - Asymptotics of $n$-universal lattices
-  [[slides]({{ site.files_base }}/asymptotics_slides.pdf)] <span class="meta">August 2026</span>
-  
+  [[slides](slides/asymptotics_slides.pdf)] <span class="meta">August 2026</span>
 - Probably purple partition patterns prefer prohibiting perfect powers
   [[slides]({{ site.files_base }}/partition_slides.pdf)] <span class="meta">April 2026</span>
-  
 - Bounds on the minimal ranks of $n$-universal lattices
   [[slides]({{ site.files_base }}/minimal_ranks_slides.pdf)] <span class="meta">October 2025</span>
-  
 - Sums of two units in number fields
   [[slides]({{ site.files_base }}/sums_units_slides.pdf)] <span class="meta">March 2025</span>
 - Computing genus 2 curves over $\mathbb{Q}$ whose Jacobians have good reduction
@@ -152,7 +148,7 @@ For more information on my background, see my [CV](files/cv.pdf).
   more importantly my [Erdős lap number](https://pikhurko.github.io/Gallery/ELN/index.html)
   is also 3 ([proof]({{ site.files_base }}/erdos_lap_number.png)).
 - My [OEIS contributions](https://oeis.org/search?q=%22robin+visser%22&language=english&go=Search).
-- My [LMFDB contributions](https://github.com/LMFDB/lmfdb/pulls?q=is%3Apr+is%3Aclosed+author%3Arvisser7) 
+- My [LMFDB contributions](https://github.com/LMFDB/lmfdb/pulls?q=author%3Arvisser7+is%3Amerged).
 - A very handy [video tutorial](https://youtu.be/li75yEgKcb0) on how to start writing.
 - A list of [some papers](papers/) I'm currently reading.
 - My old Warwick webpage can be found [here](https://warwick.ac.uk/fac/sci/maths/people/staff/visser/).
