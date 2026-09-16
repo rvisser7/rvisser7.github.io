@@ -189,6 +189,23 @@ li::marker { color: var(--muted); }
 .dense { max-width: 56rem; }
 .dense li { margin-bottom: 0.18rem; }
 
+/* Lecture lists split into three side-by-side columns
+   (e.g. lectures 1–8 | 9–16 | 17–24). Stacks into one list on narrow screens. */
+.lecture-cols {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  column-gap: 1.5rem;
+  max-width: 56rem;
+  margin: 0 0 1.2rem;
+}
+.lecture-cols > ul { margin: 0; font-size: 0.96875rem; }
+.lecture-cols .meta { white-space: nowrap; }
+
+@media (max-width: 46rem) {
+  .lecture-cols { grid-template-columns: 1fr; }
+  .lecture-cols > ul { font-size: inherit; }
+}
+
 /* Small trailing detail on a list item: dates, venues, journal refs. */
 .meta {
   font-family: var(--sans);
