@@ -198,12 +198,11 @@ li::marker { color: var(--muted); }
   max-width: 56rem;
   margin: 0 0 1.2rem;
 }
-.lecture-cols > ul { margin: 0; font-size: 0.96875rem; }
+.lecture-cols > ul { margin: 0; }
 .lecture-cols .meta { white-space: nowrap; }
 
 @media (max-width: 46rem) {
   .lecture-cols { grid-template-columns: 1fr; }
-  .lecture-cols > ul { font-size: inherit; }
 }
 
 /* Small trailing detail on a list item: dates, venues, journal refs. */
