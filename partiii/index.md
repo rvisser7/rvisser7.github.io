@@ -4,10 +4,8 @@ title: Part III notes
 description: Handwritten lecture notes from the Cambridge Part III (Maths Tripos), 2019/20.
 ---
 
-These are some of my handwritten — and very rough — lecture notes for Cambridge
-Part III (Maths Tripos) courses in the 2019/20 academic year. All errors are my
-own. A well-written typeset alternative for the same year is
-[Qiangru Kuang's notes](http://qk206.user.srcf.net/notes/).
+This page hosts some of my handwritten (and very rough) lecture notes for Cambridge Part III (Maths Tripos) courses in the 2019/20 academic year.
+All errors are my own. Another well-written reference for the 2019/20 academic year is [Qiangru Kuang's notes](http://qk206.user.srcf.net/notes/).
 
 ## Preparatory workshop
 
@@ -35,6 +33,8 @@ My summaries: [definitions and theorems]({{ site.partiii_base }}/part_iii_algebr
 [proofs]({{ site.partiii_base }}/part_iii_algebraic_number_theory_proofs.pdf).
 See also [Qiangru Kuang's notes](http://qk206.user.srcf.net/notes/algebraic_number_theory.pdf).
 
+<div class="lecture-cols" markdown="1">
+
 {: .dense}
 - Lecture 1 [[notes]({{ site.partiii_base }}/ant2019_lecture1.pdf)] <span class="meta">11 Oct 2019</span>
 - Lecture 2 [[notes]({{ site.partiii_base }}/ant2019_lecture2.pdf)] <span class="meta">14 Oct 2019</span>
@@ -43,8 +43,9 @@ See also [Qiangru Kuang's notes](http://qk206.user.srcf.net/notes/algebraic_numb
 - Lecture 5 [[notes]({{ site.partiii_base }}/ant2019_lecture5.pdf)] <span class="meta">21 Oct 2019</span>
 - Lecture 6 [[notes]({{ site.partiii_base }}/ant2019_lecture6.pdf)] <span class="meta">23 Oct 2019</span>
 - Lecture 7 [[notes]({{ site.partiii_base }}/ant2019_lecture7.pdf)] <span class="meta">25 Oct 2019</span>
-- Examples class 1 [[notes]({{ site.partiii_base }}/ant2019_examples1.pdf)] <span class="meta">25 Oct 2019</span>
 - Lecture 8 [[notes]({{ site.partiii_base }}/ant2019_lecture8.pdf)] <span class="meta">28 Oct 2019</span>
+
+{: .dense}
 - Lecture 9 [[notes]({{ site.partiii_base }}/ant2019_lecture9.pdf)] <span class="meta">30 Oct 2019</span>
 - Lecture 10 [[notes]({{ site.partiii_base }}/ant2019_lecture10.pdf)] <span class="meta">1 Nov 2019</span>
 - Lecture 11 [[notes]({{ site.partiii_base }}/ant2019_lecture11.pdf)] <span class="meta">4 Nov 2019</span>
@@ -53,17 +54,20 @@ See also [Qiangru Kuang's notes](http://qk206.user.srcf.net/notes/algebraic_numb
 - Lecture 14 [[notes]({{ site.partiii_base }}/ant2019_lecture14.pdf)] <span class="meta">11 Nov 2019</span>
 - Lecture 15 [[notes]({{ site.partiii_base }}/ant2019_lecture15.pdf)] <span class="meta">13 Nov 2019</span>
 - Lecture 16 [[notes]({{ site.partiii_base }}/ant2019_lecture16.pdf)] <span class="meta">15 Nov 2019</span>
-- Examples class 2 [[notes]({{ site.partiii_base }}/ant2019_examples2.pdf)] <span class="meta">15 Nov 2019</span>
+
+{: .dense}
 - Lecture 17 [[notes]({{ site.partiii_base }}/ant2019_lecture17.pdf)] <span class="meta">18 Nov 2019</span>
 - Lecture 18 [[notes]({{ site.partiii_base }}/ant2019_lecture18.pdf)] <span class="meta">20 Nov 2019</span>
 - Lecture 19 [[notes]({{ site.partiii_base }}/ant2019_lecture19.pdf)] <span class="meta">22 Nov 2019</span>
-- Examples class 3 [[notes]({{ site.partiii_base }}/ant2019_examples3.pdf)] <span class="meta">22 Nov 2019</span>
 - Lecture 20 [[notes]({{ site.partiii_base }}/ant2019_lecture20.pdf)] <span class="meta">25 Nov 2019</span>
 - Lecture 21 [[notes]({{ site.partiii_base }}/ant2019_lecture21.pdf)] <span class="meta">27 Nov 2019</span>
 - Lecture 22 [[notes]({{ site.partiii_base }}/ant2019_lecture22.pdf)] <span class="meta">29 Nov 2019</span>
 - Lecture 23 [[notes]({{ site.partiii_base }}/ant2019_lecture23.pdf)] <span class="meta">2 Dec 2019</span>
 - Lecture 24 [[notes]({{ site.partiii_base }}/ant2019_lecture24.pdf)] <span class="meta">4 Dec 2019</span>
-- Examples class 4 [[notes]({{ site.partiii_base }}/ant2019_examples4.pdf)] <span class="meta">6 Dec 2019</span>
+
+</div>
+
+Examples classes: [Class 1]({{ site.partiii_base }}/ant2019_examples1.pdf) <span class="meta">25 Oct 2019</span> · [Class 2]({{ site.partiii_base }}/ant2019_examples2.pdf) <span class="meta">15 Nov 2019</span> · [Class 3]({{ site.partiii_base }}/ant2019_examples3.pdf) <span class="meta">22 Nov 2019</span> · [Class 4]({{ site.partiii_base }}/ant2019_examples4.pdf) <span class="meta">6 Dec 2019</span>.
 
 ## Elliptic Curves
 
