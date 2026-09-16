@@ -84,6 +84,8 @@ Exercise sheets: [formula sheet]({{ site.partiii_base }}/ec2019_formulasheet.pdf
 
 My summary: [definitions and theorems]({{ site.partiii_base }}/part_iii_elliptic_curves.pdf).
 
+<div class="lecture-cols" markdown="1">
+
 {: .dense}
 - Lecture 1 [[notes]({{ site.partiii_base }}/ec2019_lecture1.pdf)] <span class="meta">11 Oct 2019</span>
 - Lecture 2 [[notes]({{ site.partiii_base }}/ec2019_lecture2.pdf)] <span class="meta">14 Oct 2019</span>
@@ -93,26 +95,31 @@ My summary: [definitions and theorems]({{ site.partiii_base }}/part_iii_elliptic
 - Lecture 6 [[notes]({{ site.partiii_base }}/ec2019_lecture6.pdf)] <span class="meta">23 Oct 2019</span>
 - Lecture 7 [[notes]({{ site.partiii_base }}/ec2019_lecture7.pdf)] <span class="meta">25 Oct 2019</span>
 - Lecture 8 [[notes]({{ site.partiii_base }}/ec2019_lecture8.pdf)] <span class="meta">28 Oct 2019</span>
-- Examples class 1 [[notes]({{ site.partiii_base }}/ec2019_examples1.pdf)] <span class="meta">28 Oct 2019</span>
+
+{: .dense}
 - Lecture 9 [[notes]({{ site.partiii_base }}/ec2019_lecture9.pdf)] <span class="meta">30 Oct 2019</span>
 - Lecture 10 [[notes]({{ site.partiii_base }}/ec2019_lecture10.pdf)] <span class="meta">1 Nov 2019</span>
 - Lecture 11 [[notes]({{ site.partiii_base }}/ec2019_lecture11.pdf)] <span class="meta">4 Nov 2019</span>
 - Lecture 12 [[notes]({{ site.partiii_base }}/ec2019_lecture12.pdf)] <span class="meta">6 Nov 2019</span>
 - Lecture 13 [[notes]({{ site.partiii_base }}/ec2019_lecture13.pdf)] <span class="meta">8 Nov 2019</span>
 - Lecture 14 [[notes]({{ site.partiii_base }}/ec2019_lecture14.pdf)] <span class="meta">11 Nov 2019</span>
-- Examples class 2 [[notes]({{ site.partiii_base }}/ec2019_examples2.pdf)] <span class="meta">11 Nov 2019</span>
 - Lecture 15 [[notes]({{ site.partiii_base }}/ec2019_lecture15.pdf)] <span class="meta">13 Nov 2019</span>
 - Lecture 16 [[notes]({{ site.partiii_base }}/ec2019_lecture16.pdf)] <span class="meta">15 Nov 2019</span>
+
+{: .dense}
 - Lecture 17 [[notes]({{ site.partiii_base }}/ec2019_lecture17.pdf)] <span class="meta">18 Nov 2019</span>
 - Lecture 18 [[notes]({{ site.partiii_base }}/ec2019_lecture18.pdf)] <span class="meta">20 Nov 2019</span>
 - Lecture 19 [[notes]({{ site.partiii_base }}/ec2019_lecture19.pdf)] <span class="meta">22 Nov 2019</span>
 - Lecture 20 [[notes]({{ site.partiii_base }}/ec2019_lecture20.pdf)] <span class="meta">25 Nov 2019</span>
-- Examples class 3 [[notes]({{ site.partiii_base }}/ec2019_examples3.pdf)] <span class="meta">25 Nov 2019</span>
 - Lecture 21 [[notes]({{ site.partiii_base }}/ec2019_lecture21.pdf)] <span class="meta">27 Nov 2019</span>
 - Lecture 22 [[notes]({{ site.partiii_base }}/ec2019_lecture22.pdf)] <span class="meta">29 Nov 2019</span>
 - Lecture 23 [[notes]({{ site.partiii_base }}/ec2019_lecture23.pdf)] <span class="meta">2 Dec 2019</span>
 - Lecture 24 [[notes]({{ site.partiii_base }}/ec2019_lecture24.pdf)] <span class="meta">4 Dec 2019</span>
-- Examples class 4 [[notes]({{ site.partiii_base }}/ec2019_examples4.pdf)] <span class="meta">20 Jan 2020</span>
+
+</div>
+
+Examples classes: [Class 1]({{ site.partiii_base }}/ec2019_examples1.pdf) <span class="meta">28 Oct 2019</span> · [Class 2]({{ site.partiii_base }}/ec2019_examples2.pdf) <span class="meta">11 Nov 2019</span> · [Class 3]({{ site.partiii_base }}/ec2019_examples3.pdf) <span class="meta">25 Nov 2019</span> · [Class 4]({{ site.partiii_base }}/ec2019_examples4.pdf) <span class="meta">20 Jan 2020</span>.
+ 
 
 ## Algebra
 
@@ -126,6 +133,8 @@ See also [Qiangru Kuang's notes](http://qk206.user.srcf.net/notes/algebra.pdf).
 
 My summary: [definitions and theorems]({{ site.partiii_base }}/part_iii_algebra.pdf).
 
+<div class="lecture-cols" markdown="1">
+
 {: .dense}
 - Lecture 1 [[notes]({{ site.partiii_base }}/alg2019_lecture1.pdf)] <span class="meta">10 Oct 2019</span>
 - Lecture 2 [[notes]({{ site.partiii_base }}/alg2019_lecture2.pdf)] <span class="meta">12 Oct 2019</span>
@@ -135,26 +144,30 @@ My summary: [definitions and theorems]({{ site.partiii_base }}/part_iii_algebra.
 - Lecture 6 [[notes]({{ site.partiii_base }}/alg2019_lecture6.pdf)] <span class="meta">22 Oct 2019</span>
 - Lecture 7 [[notes]({{ site.partiii_base }}/alg2019_lecture7.pdf)] <span class="meta">24 Oct 2019</span>
 - Lecture 8 [[notes]({{ site.partiii_base }}/alg2019_lecture8.pdf)] <span class="meta">26 Oct 2019</span>
+
+{: .dense}
 - Lecture 9 [[notes]({{ site.partiii_base }}/alg2019_lecture9.pdf)] <span class="meta">29 Oct 2019</span>
-- Examples class 1 [[notes]({{ site.partiii_base }}/alg2019_examples1.pdf)] <span class="meta">29 Oct 2019</span>
 - Lecture 10 [[notes]({{ site.partiii_base }}/alg2019_lecture10.pdf)] <span class="meta">31 Oct 2019</span>
 - Lecture 11 [[notes]({{ site.partiii_base }}/alg2019_lecture11.pdf)] <span class="meta">2 Nov 2019</span>
 - Lecture 12 [[notes]({{ site.partiii_base }}/alg2019_lecture12.pdf)] <span class="meta">5 Nov 2019</span>
 - Lecture 13 [[notes]({{ site.partiii_base }}/alg2019_lecture13.pdf)] <span class="meta">7 Nov 2019</span>
 - Lecture 14 [[notes]({{ site.partiii_base }}/alg2019_lecture14.pdf)] <span class="meta">9 Nov 2019</span>
 - Lecture 15 [[notes]({{ site.partiii_base }}/alg2019_lecture15.pdf)] <span class="meta">12 Nov 2019</span>
-- Examples class 2 [[notes]({{ site.partiii_base }}/alg2019_examples2.pdf)] <span class="meta">12 Nov 2019</span>
 - Lecture 16 [[notes]({{ site.partiii_base }}/alg2019_lecture16.pdf)] <span class="meta">14 Nov 2019</span>
+
+{: .dense}
 - Lecture 17 [[notes]({{ site.partiii_base }}/alg2019_lecture17.pdf)] <span class="meta">16 Nov 2019</span>
 - Lecture 18 [[notes]({{ site.partiii_base }}/alg2019_lecture18.pdf)] <span class="meta">19 Nov 2019</span>
 - Lecture 19 [[notes]({{ site.partiii_base }}/alg2019_lecture19.pdf)] <span class="meta">21 Nov 2019</span>
 - Lecture 20 [[notes]({{ site.partiii_base }}/alg2019_lecture20.pdf)] <span class="meta">23 Nov 2019</span>
 - Lecture 21 [[notes]({{ site.partiii_base }}/alg2019_lecture21.pdf)] <span class="meta">26 Nov 2019</span>
-- Examples class 3 [[notes]({{ site.partiii_base }}/alg2019_examples3.pdf)] <span class="meta">26 Nov 2019</span>
 - Lecture 22 [[notes]({{ site.partiii_base }}/alg2019_lecture22.pdf)] <span class="meta">28 Nov 2019</span>
 - Lecture 23 [[notes]({{ site.partiii_base }}/alg2019_lecture23.pdf)] <span class="meta">30 Nov 2019</span>
 - Lecture 24 [[notes]({{ site.partiii_base }}/alg2019_lecture24.pdf)] <span class="meta">3 Dec 2019</span>
-- Examples class 4 [[notes]({{ site.partiii_base }}/alg2019_examples4.pdf)] <span class="meta">14 Jan 2020</span>
+
+</div>
+
+Examples classes: [Class 1]({{ site.partiii_base }}/alg2019_examples1.pdf) <span class="meta">29 Oct 2019</span> · [Class 2]({{ site.partiii_base }}/alg2019_examples2.pdf) <span class="meta">12 Nov 2019</span> · [Class 3]({{ site.partiii_base }}/alg2019_examples3.pdf) <span class="meta">26 Nov 2019</span> · [Class 4]({{ site.partiii_base }}/alg2019_examples4.pdf) <span class="meta">14 Jan 2020</span>.
 
 ## Modular Forms and L-functions
 
