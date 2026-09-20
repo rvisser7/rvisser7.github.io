@@ -20,6 +20,7 @@ I also often enjoy playing around with various aspects of analytic number theory
 **Background.** After finishing my BSc (Hons) at Stellenbosch University in 2018,
 I completed the MASt (Part III) at the University of Cambridge in 2020, where I
 also wrote a short essay on [large prime gaps]({{ site.files_base }}/large_gaps_between_primes.pdf).
+
 For more information on my background, see my [CV](files/cv.pdf).
 
 ## Publications
@@ -83,9 +84,9 @@ For more information on my background, see my [CV](files/cv.pdf).
 
 {: .dense}
 - Higher genus theory and unramified quadratic extensions of biquadratic fields
-  [[slides](slides/paderborn_slides.pdf)] <span class="meta">August 2026</span>
+  [[slides](slides/paderborn_slides.pdf), [handout](slides/paderborn_handout.pdf)] <span class="meta">August 2026</span>
 - Asymptotics of $n$-universal lattices
-  [[slides](slides/asymptotics_slides.pdf)] <span class="meta">August 2026</span>
+  [[slides](slides/asymptotics_slides.pdf), [handout](slides/asymptotics_handout.pdf)] <span class="meta">August 2026</span>
 - Probably purple partition patterns prefer prohibiting perfect powers
   [[slides]({{ site.files_base }}/partition_slides.pdf)] <span class="meta">April 2026</span>
 - Bounds on the minimal ranks of $n$-universal lattices
