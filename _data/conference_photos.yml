@@ -48,7 +48,7 @@
   location: online
   date: June 2025
 
-- file: https://lh3.googleusercontent.com/sitesv/AG8ngQXNFsUMLTkwMVo6u55sOi-adYmveKwzxxDn3jBk94lY8YmBXl125oW2RJnU3tPAuflFindHoypCQfACgbynX5dbO3AKruM3odvMRirTFeARzvA36Cw0elAwsGPE8iL2Lvl_EubxMzgrk9pSdlQwvyaarQX6E5sD6Ng42EJTh6DFUis1qm0e1xVBMOdlSnNn3rXZUIB15MfTMy_ahCm054IxD27Azj7DVG36wd75CKg=w1280
+- file: /conferences/photos/johntate-2025.jpg
   name: The Legacy of John Tate, and Beyond
   location: Harvard University, USA
   date: March 2025
@@ -73,7 +73,17 @@
   location: Zagreb, Croatia
   date: September 2023
 
-- file: /files/photos/yrant-2023.jpg
+- file: /conferences/photos/yrant-2023.jpg
   name: YRANT 2023
-  location: Bristol
+  location: Cambridge, UK
   date: September 2023
+
+- file: https://iecl.univ-lorraine.fr/wp-content/uploads/2023/07/JA_2023_small-1024x682.png
+  name: Journées Arithmétiques 2023
+  location: Nancy, France
+  date: July 2023
+
+- file: https://conferences.cirm-math.fr/wp-content/uploads/2022/11/p1020086_orig.jpg
+  name: Galois Representations, Automorphic Forms and L-Functions
+  location: Luminy, France
+  date: June 2022
