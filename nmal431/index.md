@@ -9,8 +9,8 @@ Welcome to the **Advanced Algebraic Number Theory NMAL431** course webpage for t
 
 ## About the course
 
-This course is a continuation of *Basic Algebraic Number Theory NMAG472* ([notes]({{ site.nmal431_base }}/bant.pdf)).
-The course will broadly follow Jack Thorne's algebraic number theory lecture notes (found [here]({{ site.nmal431_base }}/jackthorne_notes.pdf)). 
+This course is a continuation of *Basic Algebraic Number Theory NMAG472* (see Vita Kala's notes [here]({{ site.nmal431_base }}/bant.pdf)).
+The course will broadly follow Jack Thorne's Part III algebraic number theory lecture notes (found [here]({{ site.nmal431_base }}/jackthorne_notes.pdf)). 
 The aims of this course are to cover the following:
 
 - Dedekind domains, localisations, and completion at a prime.
@@ -19,7 +19,7 @@ The aims of this course are to cover the following:
 
 ## When and where
 
-Every **Tuesday** at **12:20** for 90 minutes, and later again at **17:20** for 90 minutes, in room **K10C** in Karlín.
+Every **Tuesday** at **12:20** for 90 minutes in room **K10C**, and later again at **17:20** for 90 minutes in room **K7**.
 The first lecture will be on 29 September 2026. Every second week, starting 6 October 2026, the 17:20 session will be an exercise class.
 
 There will be no lecture on 17 November 2026.
@@ -36,12 +36,13 @@ There will be no lecture on 17 November 2026.
 {% endcomment %}
 
 ## Homework
- 
+
+There are three homework sheets in total.  You may hand me your solutions at the beginning of the exercise class, or by placing them in my pigeonhole before the class on the 3rd floor.   Credit for the course "zápočet" will be awarded by receiving a score of at least 50% for each homework set.
+
 {: .dense}
-- Homework 1 [[pdf]({{ site.nmal431_base }}/hw1.pdf)]{% comment %}
-- Homework 2 [[pdf]({{ site.nmal431_base }}/hw2.pdf)]
-- Homework 3 [[pdf]({{ site.nmal431_base }}/hw3.pdf)]
-{% endcomment %}
+- Homework 1 [[pdf]({{ site.nmal431_base }}/hw1.pdf)] (due: **3 November 2026**)
+- Homework 2 [[pdf]({{ site.nmal431_base }}/hw2.pdf)] (due: **8 December 2026**)
+- Homework 3 [[pdf]({{ site.nmal431_base }}/hw3.pdf)] (due: **5 January 2027**)
 
 ## Assessment
 
