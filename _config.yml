@@ -13,11 +13,11 @@ lang: en
 # "/files" and "/partiii/files" and every link on every page follows.
 files_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser"
 warwick_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser"
-partiii_base: "/partiii"
+partiii_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/partiii"
 genus2_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/genus2"
 murmurations_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/murmurations"
 imc_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/imc2022"
-nmal431_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/nmal431"
+nmal431_base: "/nmal431"
 
 markdown: kramdown
 kramdown:
