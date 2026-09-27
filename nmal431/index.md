@@ -50,7 +50,7 @@ The assessment for this course is an oral exam, in which you will be asked to pr
 
 ## References
 
-- J. Thorne, *Algebraic Number Theory course notes*, 2019 ([pdf]({{ site.nmal431_base }}/partiii_ant_notes.pdf)).
+- J. Thorne, *Algebraic Number Theory*, lecture notes for Part III, University of Cambridge, 2019 ([pdf]({{ site.nmal431_base }}/partiii_ant_notes.pdf)).
 - M. F. Atiyah and I. G. Macdonald, *Introduction to Commutative Algebra*. Addison-Wesley, 1969. Chapter 9.
 - S. Lang, *Algebraic Number Theory*. Grad. Texts in Math. 110, Springer, 1994.
 - J.-P. Serre, *Local Fields*. Grad. Texts in Math. 67, Springer, 1979.
