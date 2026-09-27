@@ -9,8 +9,8 @@ Welcome to the **Advanced Algebraic Number Theory NMAL431** course webpage for t
 
 ## About the course
 
-This course is a continuation of *Basic Algebraic Number Theory NMAG472* (see Vita Kala's notes [here]({{ site.nmal431_base }}/bant.pdf)).
-The course will broadly follow Jack Thorne's Part III algebraic number theory lecture notes (found [here]({{ site.nmal431_base }}/jackthorne_notes.pdf)). 
+This course is a continuation of *Basic Algebraic Number Theory NMAG472* (see Vita Kala's notes [here]({{ site.nmal431_base }}/bant_notes.pdf)).
+The course will broadly follow Jack Thorne's lecture notes from the Cambridge Part III course in algebraic number theory (found [here]({{ site.nmal431_base }}/partiii_ant_notes.pdf)). 
 The aims of this course are to cover the following:
 
 - Dedekind domains, localisations, and completion at a prime.
@@ -19,15 +19,15 @@ The aims of this course are to cover the following:
 
 ## When and where
 
-Every **Tuesday** at **12:20** for 90 minutes in room **K10C**, and later again at **17:20** for 90 minutes in room **K7**.
-The first lecture will be on 29 September 2026. Every second week, starting 6 October 2026, the 17:20 session will be an exercise class.
+Lectures take place every **Tuesday** at **12:20** in room **K10C**, and again at **17:20** for in room **K7** (90 minutes each).
+The first lecture will be on **29 September 2026**. Every second week, starting 6 October 2026, the 17:20 session will be an exercise class.
 
-There will be no lecture on 17 November 2026.
+There will be no teaching on 17 November 2026.
 
 ## Exercise sheets
 
 {: .dense}
-- Sheet 1 [[questions]({{ site.nmal431_base }}/ex1.pdf)] {% comment %} [[solutions]({{ site.nmal431_base }}/sol1.pdf)]
+- Sheet 1 (6 October) [[questions]({{ site.nmal431_base }}/ex1.pdf)] {% comment %} [[solutions]({{ site.nmal431_base }}/sol1.pdf)]
 - Sheet 2 [[questions]({{ site.nmal431_base }}/ex2.pdf)] [[solutions]({{ site.nmal431_base }}/sol2.pdf)]
 - Sheet 3 [[questions]({{ site.nmal431_base }}/ex3.pdf)] [[solutions]({{ site.nmal431_base }}/sol3.pdf)]
 - Sheet 4 [[questions]({{ site.nmal431_base }}/ex4.pdf)] [[solutions]({{ site.nmal431_base }}/sol4.pdf)]
@@ -37,7 +37,7 @@ There will be no lecture on 17 November 2026.
 
 ## Homework
 
-There are three homework sheets in total.  You may hand me your solutions at the beginning of the exercise class, or by placing them in my pigeonhole before the class on the 3rd floor.   Credit for the course "zápočet" will be awarded by receiving a score of at least 50% for each homework set.
+There are three homework sheets in total.  You may hand me your solutions at the beginning of the exercise class on the due date, or place them in my pigeonhole (3rd floor) before the class.   Credit for the course (*zápočet*) will be awarded by receiving a score of at least 50% on each homework set.
 
 {: .dense}
 - Homework 1 [[pdf]({{ site.nmal431_base }}/hw1.pdf)] (due: **3 November 2026**)
@@ -46,11 +46,11 @@ There are three homework sheets in total.  You may hand me your solutions at the
 
 ## Assessment
 
-The assessment for this course is an oral exam, in which you will be asked to prove a theorem from the course. If you would like to take the course for credit, please [email me](mailto:robin.visser@matfyz.cuni.cz) with a proposed exam date and time. You may do the exam on any day up until 15 September 2027.
+The assessment for this course is an oral exam, in which you will be asked to prove a theorem from the course. If you would like to take the exam, please [email me](mailto:robin.visser@matfyz.cuni.cz) with a proposed exam date and time. You may do the exam on any day up until 15 September 2027.
 
 ## References
 
-- J. Thorne, *Algebraic Number Theory course notes*, 2019 ([pdf]({{ site.nmal431_base }}/jackthorne_notes.pdf)).
+- J. Thorne, *Algebraic Number Theory course notes*, 2019 ([pdf]({{ site.nmal431_base }}/partiii_ant_notes.pdf)).
 - M. F. Atiyah and I. G. Macdonald, *Introduction to Commutative Algebra*. Addison-Wesley, 1969. Chapter 9.
 - S. Lang, *Algebraic Number Theory*. Grad. Texts in Math. 110, Springer, 1994.
 - J.-P. Serre, *Local Fields*. Grad. Texts in Math. 67, Springer, 1979.
