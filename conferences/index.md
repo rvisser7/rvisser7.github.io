@@ -32,10 +32,10 @@ description: Conferences and workshops Robin Visser has attended or is attending
 - [LMFDB Workshop](https://math.mit.edu/~roed/conferences/LMFDB25/)
   <span class="meta">Massachusetts Institute of Technology, 14–18 July 2025</span>
 - [LMFDB, Computation, and Number Theory](https://icerm.brown.edu/program/topical_workshop/tw-25-lucant) (LuCaNT)
-  ([slides](../files/lucant2025_slides.pdf))
+  ([slides]({{ site.warwick_base }}/lucant2025_slides.pdf))
   <span class="meta">ICERM, 7–11 July 2025</span>
 - [33èmes Journées Arithmétiques](https://www.uni.lu/fstm-en/conferences/ja25/)
-  ([slides](../files/ja33_slides.pdf))
+  ([slides]({{ site.warwick_base }}/ja33_slides.pdf))
   <span class="meta">University of Luxembourg, 30 June – 4 July 2025</span>
 - [Rethinking Number Theory (RNT6)](https://sites.google.com/view/rethinkingnumbertheory/home?authuser=0)
   <span class="meta">Online, 16–27 June 2025</span>
@@ -46,31 +46,31 @@ description: Conferences and workshops Robin Visser has attended or is attending
 - [Young Researchers in Algebraic Number Theory](https://y-rant.github.io/) (YRANT), 6th edition
   <span class="meta">University of Oxford, 31 July – 2 August 2024</span>
 - [The Mordell Conjecture 100 Years Later](https://mordell.org/)
-  ([slides](../files/mordell_slides.pdf))
+  ([slides]({{ site.warwick_base }}/mordell_slides.pdf))
   <span class="meta">Massachusetts Institute of Technology, 8–12 July 2024</span>
 - [British Mathematical Colloquium](https://sites.google.com/view/bmc2024/home)
-  ([slides](../files/bmc2024_slides.pdf))
+  ([slides]({{ site.warwick_base }}/bmc2024_slides.pdf))
   <span class="meta">University of Manchester, 17–20 June 2024</span>
 - [Modular Curves and their Arithmetic](https://warwick.ac.uk/fac/sci/maths/research/events/2023-2024/modularcurves/)
   <span class="meta">University of Warwick, 6–8 December 2023</span>
 - [Around Frobenius Distributions and Related Topics IV](http://www-lmpa.univ-littoral.fr/~ldevin/FrobeniusIV.html)
   <span class="meta">Online, 5–6 October 2023</span>
 - [Modular Curves and Galois Representations](https://web.math.pmf.unizg.hr/~fnajman/Mod_curves.html)
-  ([slides](../files/zagreb2023_slides.pdf))
+  ([slides]({{ site.warwick_base }}/zagreb2023_slides.pdf))
   <span class="meta">University of Zagreb, 18–22 September 2023</span>
 - [Young Number Theorists in Bonn](https://www.mpim-bonn.mpg.de/node/11842)
-  ([slides](../files/yobo2023_slides.pdf))
+  ([slides]({{ site.warwick_base }}/yobo2023_slides.pdf))
   <span class="meta">University of Bonn, 11–15 September 2023</span>
 - [Young Researchers in Algebraic Number Theory](https://y-rant.github.io/) (YRANT), 5th edition
-  ([slides](../files/yrant2023_slides.pdf))
+  ([slides]({{ site.warwick_base }}/yrant2023_slides.pdf))
   <span class="meta">University of Cambridge, 6–8 September 2023</span>
 - [Iwasawa 2023: in memory of John Coates](https://people.math.ethz.ch/~zerbess/index_coates-memorial.html)
   <span class="meta">University of Cambridge, 17–21 July 2023</span>
 - [LMFDB, Computation, and Number Theory](https://icerm.brown.edu/events/sc-23-lucant/) (LuCaNT)
-  ([slides](../files/lucant2023_slides.pdf))
+  ([slides]({{ site.warwick_base }}/lucant2023_slides.pdf))
   <span class="meta">Brown University, 10–14 July 2023</span>
 - [Journées Arithmétiques 2023](https://iecl.univ-lorraine.fr/ad2023/)
-  ([slides](../files/shafarevich_slides.pdf))
+  ([slides]({{ site.warwick_base }}/shafarevich_slides.pdf))
   <span class="meta">Nancy, 3–7 July 2023</span>
 - [An Afternoon of Diophantine Geometry](https://personalpages.manchester.ac.uk/staff/Martin.Orr/2022-23/diophantine.html)
   <span class="meta">University of Manchester, 29 June 2023</span>
@@ -79,7 +79,7 @@ description: Conferences and workshops Robin Visser has attended or is attending
 - [Arithmetic Statistics](https://conferences.cirm-math.fr/2675.html)
   <span class="meta">CIRM, Luminy, 15–19 May 2023</span>
 - [British Mathematical Colloquium](https://sites.google.com/view/bmc-2023/home)
-  ([poster](../files/bmc2023_poster.pdf))
+  ([poster]({{ site.warwick_base }}/bmc2023_poster.pdf))
   <span class="meta">University of Bath, 3–6 April 2023</span>
 - [Young Researchers in Algebraic Number Theory](https://y-rant.github.io/) (YRANT), 4th edition
   <span class="meta">University of Glasgow, 23–25 August 2022</span>
