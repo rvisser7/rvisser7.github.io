@@ -189,6 +189,9 @@ li::marker { color: var(--muted); }
 .dense { max-width: 56rem; }
 .dense li { margin-bottom: 0.18rem; }
 
+/* Lists that should use the full content width (e.g. bibliographies). */
+.full-width { max-width: none; }
+
 /* Lecture lists split into three side-by-side columns
    (e.g. lectures 1–8 | 9–16 | 17–24). Stacks into one list on narrow screens. */
 .lecture-cols {
