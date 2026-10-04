@@ -9,6 +9,7 @@ noindex: true
 
 Below are some papers related to my current research.
 
+{: .full-width}
 - Ahlgren, Scott; **Distribution of parity of the partition function in arithmetic progressions**. Indag. Math. (N.S.) **10** (1999), no. 2, 173–181. ([doi](https://doi.org/10.1016/S0019-3577(99)80014-7), [MR](https://mathscinet.ams.org/mathscinet-getitem?mr=1816213), [notes]({{ site.papers_base }}/ahlgren1999.pdf)).
 - Ahlgren, Scott; Boylan, Matthew; **Arithmetic properties of the partition function**. Invent. Math. **153** (2003), no. 3, 487–502. ([doi](https://doi.org/10.1007/s00222-003-0295-6), [MR](https://mathscinet.ams.org/mathscinet-getitem?mr=2000466), [notes]({{ site.papers_base }}/ahlgrenboylan2003.pdf)).
 - Ahlgren, Scott; Boylan, Matthew; **Coefficients of half-integral weight modular forms modulo $\ell^j$**. Math. Ann. **331** (2005), no. 1, 219–239. ([doi](https://doi.org/10.1007/s00208-004-0555-9), [MR](https://mathscinet.ams.org/mathscinet-getitem?mr=2107445), [notes]({{ site.papers_base }}/ahlgrenboylan2005.pdf)).
