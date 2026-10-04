@@ -328,5 +328,20 @@ Below are some papers related to my current research.
 - Wright, E. M. **A relationship between two sequences. III**. J. London Math. Soc. **43** (1968), 720–724. ([doi](https://doi.org/10.1112/jlms/s1-43.1.720), [MR](https://mathscinet.ams.org/mathscinet-getitem?mr=229546), [notes]({{ site.papers_base }}/wright1968.pdf)).
 - Wright, E. M. **Asymptotic relations between enumerative functions in graph theory.** Proc. London Math. Soc. (3) **20** (1970), 558–572. ([doi](https://doi.org/10.1112/plms/s3-20.3.558), [MR](https://mathscinet.ams.org/mathscinet-getitem?mr=256938), [notes]({{ site.papers_base }}/wright1970.pdf)).
 - Yatsyna, Pavlo; **A lower bound for the rank of a universal quadratic form with integer coefficients in a totally real number field**. Comment. Math. Helv. **94** (2019), no. 2, 221–239. ([doi](https://doi.org/10.4171/CMH/459), [MR](https://mathscinet.ams.org/mathscinet-getitem?mr=3942784), [notes]({{ site.papers_base }}/yatsyna2019.pdf)).
+
+### Proceedings
+
 - **Integral quadratic forms and lattices**. Proceedings of the International Conference held at Seoul National University, Seoul, June 15–19, 1998. Edited by Myung-Hwan Kim, John S. Hsia, Yoshiyuki Kitaoka and Rainer Schulze-Pillot Contemp. Math., 249, *American Mathematical Society, Providence, RI*, 1999. x+302 pp. ISBN:0-8218-1949-6 ([doi](https://doi.org/10.1090/conm/249), [MR](https://mathscinet.ams.org/mathscinet-getitem?mr=1732344), [ZB](https://zbmath.org/0931.00029), [notes]({{ site.papers_base }}/khksp1999.pdf)).
 - **Quadratic forms and their applications**. Proceedings of the conference (QF99) held at University College Dublin, Dublin, July 5–9, 1999. Edited by Eva Bayer-Fluckiger, David Lewis and Andrew Ranicki. Contemp. Math., 272, *American Mathematical Society, Providence, RI*, 2000. xvi+311 pp. ISBN:0-8218-2779-0 ([doi](https://doi.org/10.1090/conm/272), [MR](https://mathscinet.ams.org/mathscinet-getitem?mr=1803355), [notes]({{ site.papers_base }}/bflr2000.pdf)).
+
+<figure>
+  <a href="https://xkcd.com/410/">
+    <img src="https://imgs.xkcd.com/comics/math_paper.png"
+         alt="xkcd comic: a lecturer extends friendly numbers to the Gaussian integers, and an audience member suspects the whole talk is building up to a pun on imaginary friends"
+         loading="lazy">
+  </a>
+  <figcaption>
+    <a href="https://xkcd.com/410/">xkcd 410: Math Paper</a> by Randall Munroe,
+    <a href="https://creativecommons.org/licenses/by-nc/2.5/">CC BY-NC 2.5</a>.
+  </figcaption>
+</figure>
