@@ -17,6 +17,7 @@ partiii_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/partiii"
 genus2_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/genus2"
 murmurations_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/murmurations"
 imc_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/imc2022"
+papers_base: "https://warwick.ac.uk/fac/sci/maths/people/staff/visser/papers"
 nmal431_base: "/nmal431"
 
 markdown: kramdown
@@ -54,3 +55,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/
+  - papers/warwick_file_list.txt
