@@ -56,3 +56,4 @@ exclude:
   - Gemfile.lock
   - vendor/
   - papers/warwick_file_list.txt
+  - postdoc/
