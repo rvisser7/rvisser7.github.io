@@ -27,8 +27,8 @@ There will be no teaching on 17 November 2026.
 ## Exercise sheets
 
 {: .dense}
-- Sheet 1 (6 October) [[questions]({{ site.nmal431_base }}/ex1.pdf)] {% comment %} [[solutions]({{ site.nmal431_base }}/sol1.pdf)]
-- Sheet 2 [[questions]({{ site.nmal431_base }}/ex2.pdf)] [[solutions]({{ site.nmal431_base }}/sol2.pdf)]
+- Sheet 1 (6 October) [[questions]({{ site.nmal431_base }}/ex1.pdf)] [[solutions]({{ site.nmal431_base }}/sol1.pdf)]
+- Sheet 2 (20 October) [[questions]({{ site.nmal431_base }}/ex2.pdf)] {% comment %} [[solutions]({{ site.nmal431_base }}/sol2.pdf)]
 - Sheet 3 [[questions]({{ site.nmal431_base }}/ex3.pdf)] [[solutions]({{ site.nmal431_base }}/sol3.pdf)]
 - Sheet 4 [[questions]({{ site.nmal431_base }}/ex4.pdf)] [[solutions]({{ site.nmal431_base }}/sol4.pdf)]
 - Sheet 5 [[questions]({{ site.nmal431_base }}/ex5.pdf)] [[solutions]({{ site.nmal431_base }}/sol5.pdf)]
