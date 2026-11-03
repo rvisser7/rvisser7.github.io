@@ -22,7 +22,7 @@ The aims of this course are to cover the following:
 Lectures take place every **Tuesday** at **12:20** in room **K10C**, and again at **17:20** in room **K7** (90 minutes each).
 The first lecture will be on **29 September 2026**. Every second week, starting 6 October 2026, the 17:20 session will be an exercise class.
 
-There will be no teaching on 17 November 2026.
+There will be no teaching on 10 November and 17 November 2026.
 
 ## Exercise sheets
 
