@@ -29,15 +29,15 @@ There will be no teaching on 10 November and 17 November 2026.
 {: .dense}
 - Sheet 1 (6 October) [[questions]({{ site.nmal431_base }}/ex1.pdf)] [[solutions]({{ site.nmal431_base }}/sol1.pdf)]
 - Sheet 2 (20 October) [[questions]({{ site.nmal431_base }}/ex2.pdf)] [[solutions]({{ site.nmal431_base }}/sol2.pdf)]
-- Sheet 3 (3 November) [[questions]({{ site.nmal431_base }}/ex3.pdf)] {% comment %} [[solutions]({{ site.nmal431_base }}/sol3.pdf)]
-- Sheet 4 [[questions]({{ site.nmal431_base }}/ex4.pdf)] [[solutions]({{ site.nmal431_base }}/sol4.pdf)]
+- Sheet 3 (3 November) [[questions]({{ site.nmal431_base }}/ex3.pdf)]  [[solutions]({{ site.nmal431_base }}/sol3.pdf)]
+- Sheet 4 (1 December) [[questions]({{ site.nmal431_base }}/ex4.pdf)] {% comment %} [[solutions]({{ site.nmal431_base }}/sol4.pdf)]
 - Sheet 5 [[questions]({{ site.nmal431_base }}/ex5.pdf)] [[solutions]({{ site.nmal431_base }}/sol5.pdf)]
 - Sheet 6 [[questions]({{ site.nmal431_base }}/ex6.pdf)]
 {% endcomment %}
 
 ## Homework
 
-There are three homework sheets in total.  You may hand me your solutions at the beginning of the exercise class on the due date, or place them in my pigeonhole (3rd floor) before the class.   Credit for the course (*zápočet*) will be awarded by receiving a score of at least 50% on each homework set.
+There are three homework sheets in total.  You may hand me your solutions at the beginning of the class on the due date, or place them in my pigeonhole (3rd floor) before the class.   Credit for the course (*zápočet*) will be awarded by receiving a score of at least 50% on each homework set.
 
 {: .dense}
 - Homework 1 [[pdf]({{ site.nmal431_base }}/hw1.pdf)] (due: **3 November 2026**)
