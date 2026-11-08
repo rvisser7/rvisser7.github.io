@@ -40,7 +40,7 @@ There will be no teaching on 10 November and 17 November 2026.
 There are three homework sheets in total.  You may hand me your solutions at the beginning of the class on the due date, or place them in my pigeonhole (3rd floor) before the class.   Credit for the course (*zápočet*) will be awarded by receiving a score of at least 50% on each homework set.
 
 {: .dense}
-- Homework 1 [[pdf]({{ site.nmal431_base }}/hw1.pdf)] (due: **3 November 2026**)
+- Homework 1 [[pdf]({{ site.nmal431_base }}/hw1.pdf)] [[solutions]({{ site.nmal431_base }}/hw1_sol.pdf)] (due: **3 November 2026**)
 - Homework 2 [[pdf]({{ site.nmal431_base }}/hw2.pdf)] (due: **8 December 2026**)
 - Homework 3 [[pdf]({{ site.nmal431_base }}/hw3.pdf)] (due: **5 January 2027**)
 
