@@ -21,7 +21,7 @@ I also often enjoy playing around with various aspects of analytic number theory
 I completed the MASt (Part III) at the University of Cambridge in 2020, where I
 also wrote a short essay on [large prime gaps]({{ site.files_base }}/large_gaps_between_primes.pdf).
 
-For more information on my background, see my [CV](files/cv.pdf).
+For more information on my background, see my [CV](files/cv_refs.pdf).
 
 ## Publications
 
