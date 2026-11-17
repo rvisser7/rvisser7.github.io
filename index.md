@@ -45,6 +45,7 @@ For more information on my background, see my [CV](files/cv.pdf).
 
 ## Preprints
 
+- *Explicit Tartakowsky theorem and universality criterion sets over totally real number fields* (with Vitezslav Kala, Siu Hang Man, and Pavlo Yatsyna), November 2026. [[arXiv](https://arxiv.org/abs/2611.21117)]
 - *On integers that are representable as the sum of two units* (with Volker
   Ziegler), August 2026. [[arXiv](https://arxiv.org/abs/2608.15903)]
 - *Asymptotics of $n$-universal lattices over number fields* (with Dayoon Park,
